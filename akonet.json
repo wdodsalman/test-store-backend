@@ -9,17 +9,17 @@
       { "image": "http://akonet.info/images/isp/sard.png",
     "status" : "Down",
     "pings" : "0 ms",
-    "Paccet loss": 1000%
+    "Paccet loss": 100%
     },
       {"image": "http://akonet.info/images/isp/almadar.png",
     "status" : "UP",
     "pings" : "80 ms",
-    "Paccet loss": 0%
+    "Paccet loss": 100%
     },
       {"image": "http://akonet.info/images/isp/softlink.png",
     "status" : "UP",
     "pings" : "80 ms",
-    "Paccet loss": 0%
+    "Paccet loss": 100%
     },
     
       {"image": "http://akonet.info/images/isp/alfa.jpg",
@@ -30,17 +30,17 @@
       {"image": "http://akonet.info/images/isp/assertech.png",
     "status" : "UP",
     "pings" : "80 ms",
-    "Paccet loss": 0%
+    "Paccet loss": 100%
     },
     {"image": "http://akonet.info/images/isp/awal.png",
     "status" : "UP",
     "pings" : "80 ms",
-    "Paccet loss": 0%
+    "Paccet loss": 100%
     },
      {"image": "http://akonet.info/images/isp/broadband.jpg",
     "status" : "UP",
     "pings" : "80 ms",
-    "Paccet loss": 0%
+    "Paccet loss": 100%
     },
     ]
     
