@@ -3,19 +3,19 @@
     {
       "image": "http://akonet.info/images/isp/broadband.jpg",
       "status": "up",
-      "pings": "80 ms",
+      "pings": " ms",
       "paccet loss ": 0
     },
     {
        "image": "http://akonet.info/images/isp/broadband.jpg",
       "status": "up",
-      "pings": "80 ms",
+      "pings": " ms",
       "paccet loss ": 0
     },
     {
       "image": "http://akonet.info/images/isp/broadband.jpg",
       "status": "up",
-      "pings": "80 ms",
+      "pings": "ms",
       "paccet loss ": 0
     },
     {
@@ -27,7 +27,7 @@
      {
        "image": "http://akonet.info/images/isp/broadband.jpg",
       "status": "up",
-      "pings": "80 ms",
+      "pings": "ms",
       "paccet loss ": 0
     },
      {
@@ -39,7 +39,7 @@
      {
        "image": "http://akonet.info/images/isp/broadband.jpg",
       "status": "up",
-      "pings": "80 ms",
+      "pings": "ms",
       "paccet loss ": 0
     },
   ]
