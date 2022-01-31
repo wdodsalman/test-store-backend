@@ -3,44 +3,36 @@
    
     { "image": "http://akonet.info/images/isp/jazeera.jpg",
     "status" : "UP",
-    "pings" : "80 ms",
+    "pings" : "80 ms"
     
     },
       { "image": "http://akonet.info/images/isp/sard.png",
     "status" : "Down",
-    "pings" : "0 ms",
-    
+    "pings" : "0 ms"
     },
       {"image": "http://akonet.info/images/isp/almadar.png",
     "status" : "UP",
-    "pings" : "80 ms",
-  
+    "pings" : "80 ms"
     },
       {"image": "http://akonet.info/images/isp/softlink.png",
     "status" : "UP",
-    "pings" : "80 ms",
-    
+    "pings" : "80 ms"
     },
-    
       {"image": "http://akonet.info/images/isp/alfa.jpg",
     "status" : "UP",
-    "pings" : "80 ms",
-   
+    "pings" : "80 ms"
     },
       {"image": "http://akonet.info/images/isp/assertech.png",
     "status" : "UP",
-    "pings" : "80 ms",
-  
+    "pings" : "80 ms"
     },
     {"image": "http://akonet.info/images/isp/awal.png",
     "status" : "UP",
     "pings" : "80 ms",
-    
     },
      {"image": "http://akonet.info/images/isp/broadband.jpg",
     "status" : "UP",
-    "pings" : "80 ms",
-    
+    "pings" : "80 ms"
     }
     ]
     
