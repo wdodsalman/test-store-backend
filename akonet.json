@@ -37,7 +37,7 @@
       "paccet loss ": 0%
     },
      {
-      "http://akonet.info/images/isp/fiberlink.png",
+     "image": "http://akonet.info/images/isp/fiberlink.png",
       "status": "up",
       "pings": "ms",
       "paccet loss ": 0%
