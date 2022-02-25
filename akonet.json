@@ -19,7 +19,7 @@
       "paket": 75
     },
     {
-      "http://akonet.info/images/isp/broadband.jpg",
+       "image":"http://akonet.info/images/isp/broadband.jpg",
       "status": "down",
       "pings": "ms",
       "paket": 75
