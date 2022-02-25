@@ -24,5 +24,29 @@
       "pings": "ms",
       "paket": 75
     }
+     {
+      "image": "http://akonet.info/images/isp/fiberlink.png",
+      "status": "up",
+      "pings": "ms",
+      "paket": 75
+    },
+    {
+      "image": "http://akonet.info/images/isp/jazeera.jpg",
+      "status": "up",
+      "pings": "ms",
+      "paket": 50
+    },
+    {
+      "image": "http://akonet.info/images/isp/almadar.png",
+      "status": "up",
+      "pings": "ms",
+      "paket": 75
+    },
+    {
+       "image":"http://akonet.info/images/isp/broadband.jpg",
+      "status": "down",
+      "pings": "ms",
+      "paket": 75
+    }
   ]
 }
