@@ -13,14 +13,32 @@
       "paket": 50
     },
     {
-      "image": "http://akonet.info/images/isp/fiberlink.png",
-      "title": "nike",
+      "image": "http://akonet.info/images/isp/almadar.png",
+      "status": "up",
       "pings": "ms",
       "paket": 75
     },
     {
-      "image": "http://akonet.info/images/isp/fiberlink.png",
-      "title": "nike",
+      "http://akonet.info/images/isp/broadband.jpg",
+      "status": "down",
+      "pings": "ms",
+      "paket": 75
+    },
+    {
+      "image": "http://akonet.info/images/isp/softlink.png",
+      "status": "down",
+      "pings": "ms",
+      "paket": 75
+    },
+    {
+      "image": "http://akonet.info/images/isp/cnc.png",
+      "status": "down",
+      "pings": "ms",
+      "paket": 75
+    },
+    {
+      "image": "http://akonet.info/images/isp/giganet.png",
+      "status": "down",
       "pings": "ms",
       "paket": 75
     }
