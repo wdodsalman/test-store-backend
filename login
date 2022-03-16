@@ -1,8 +1,9 @@
 {
-	"email": "algazzar.abdelrahman@gmail.com",
-	"password": "123456"
-},
+"login" : [
 {
-	"email": "abds@gmail.com",
+"email": "abds@gmail.com",
 	"password": "123456"
+	}
+    ]
 }
+
