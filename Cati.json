@@ -1,0 +1,20 @@
+{
+"cati" : [
+{
+"name" : "electronics",
+"image" : "https://st2.depositphotos.com/3538103/5978/v/450/depositphotos_59780703-stock-illustration-circuit-board-technology-icon.jpg"
+},
+{
+"name" : "jewelery",
+"image" : "https://st.depositphotos.com/1002457/1491/v/450/depositphotos_14915721-stock-illustration-earrings-necklace-set.jpg"
+},
+{
+"name" : "mens clothing",
+"image" : "https://st2.depositphotos.com/1000591/8159/v/450/depositphotos_81598058-stock-illustration-gray-business-suit.jpg"
+},
+{
+"name" : "women's clothing",
+"image" : "https://st4.depositphotos.com/21230196/23349/v/450/depositphotos_233499562-stock-illustration-clothes-icon-trendy-design-style.jpg"
+}
+ ]
+   }   
